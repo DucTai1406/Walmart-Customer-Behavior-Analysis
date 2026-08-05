@@ -15,7 +15,7 @@ A Power BI dashboard designed to visualize and monitor key sales performance met
 - City-level sales performance comparison
 - Customer segmentation by age, gender, and payment preference
 - Repeat customer behavior and rating analysis
-- 
+
 ## ️🔧 Tool used
 
 - Python (pandas)
