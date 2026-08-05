@@ -27,7 +27,7 @@ A Power BI dashboard designed to visualize and monitor key sales performance met
 - Loaded the raw dataset into Python using Pandas for initial exploration.
 - Cleaned and preprocessed the data by handling missing values, duplicates, and inconsistent data formats.
 - Performed data analysis in SQL to generate aggregated metrics and answer key business questions.
-- Imported the processed data into Power BI and built interactive visualizations using charts, cards, tables, and slicers.
+- Imported the processed data into Power BI and built interactive visualizations.
 - Analyzed the dashboard results to identify key trends, customer behavior patterns, and business insights.
 
 ## ️💡 Business Insights
