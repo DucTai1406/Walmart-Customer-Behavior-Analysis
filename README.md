@@ -4,7 +4,7 @@ A Power BI dashboard designed to visualize and monitor key sales performance met
 
 ## 📈 Dashboard Preview
 
-🔗 [View the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGJiNmViNjMtZWI5Ni00YmNkLWEwZjktYmFlZGIxN2QyZjZjIiwidCI6IjM3MGZiM2I4LTMzMDYtNDg5MC05MDYzLWNjMDhiZTc4ODI1NyIsImMiOjEwfQ%3D%3D)
+🔗 [Link_dashboard (cần đăng nhập)](https://app.powerbi.com/links/W01RrpWyGo?ctid=06f1b89f-07e8-464f-b408-ec1b45703f31&pbi_source=linkShare)
 
 ![Report Preview](Preview.png)
 
