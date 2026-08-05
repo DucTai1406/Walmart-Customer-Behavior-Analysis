@@ -6,7 +6,7 @@ A Power BI dashboard designed to visualize and monitor key sales performance met
 
 🔗 [View the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGJiNmViNjMtZWI5Ni00YmNkLWEwZjktYmFlZGIxN2QyZjZjIiwidCI6IjM3MGZiM2I4LTMzMDYtNDg5MC05MDYzLWNjMDhiZTc4ODI1NyIsImMiOjEwfQ%3D%3D)
 
-[![Report Preview](preview.png)](https://app.powerbi.com/view?r=eyJrIjoiMGJiNmViNjMtZWI5Ni00YmNkLWEwZjktYmFlZGIxN2QyZjZjIiwidCI6IjM3MGZiM2I4LTMzMDYtNDg5MC05MDYzLWNjMDhiZTc4ODI1NyIsImMiOjEwfQ%3D%3D)
+![Report Preview](Preview.png)
 
 ## ️🔑 Key Features
 
