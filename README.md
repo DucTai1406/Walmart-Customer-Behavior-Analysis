@@ -8,6 +8,9 @@ A Power BI dashboard designed to visualize and monitor key sales performance met
 
 ![Report Preview](Preview.png)
 
+## 📌 Dataset: 
+A 50,000-row CSV dataset capturing customer shopping behavior at Walmart (sourced from Kaggle), analyzed to derive actionable insights aimed at optimizing customer experience, elevating satisfaction, and driving revenue growth.
+    
 ## ️🔑 Key Features
 
 - Time-based analysis of revenue and order volume
