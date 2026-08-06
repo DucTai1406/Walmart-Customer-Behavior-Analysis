@@ -35,9 +35,9 @@ A Power BI dashboard designed to visualize and monitor key sales performance met
 - **Electronics products, especially headphones and smartwatches, show strong performance with high revenue and steady monthly growth**:
 These products can be considered key revenue drivers and should receive more focus in marketing and product development.
 - **Older customers tend to spend slightly less and give lower ratings, while female customers generally provide more positive ratings**:
-This suggests clear differences in purchasing behavior and satisfaction across demographic groups.
+Improve service quality and products tailored to older customers, while simultaneously launching loyalty programs specifically for female customers.
 - **Younger customers generate the highest revenue and tend to pay by card, while older customers prefer cash on delivery**:
-The business should adapt its payment strategy to match these age-based preferences in order to improve checkout convenience and customer satisfaction.
+Offer card or e-wallet incentives to young people, while simplifying the Cash on Delivery process for older customers.
 - **Cities such as New, North, Lake, and East Michael stand out as the strongest markets, with high revenue, a large number of repeat customers, and a stable order volume**:
 These locations should be prioritized for business expansion, customer retention, and sales-focused initiatives.
 
